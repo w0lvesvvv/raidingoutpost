@@ -1,0 +1,11 @@
+name: RaidingOutpostMassiveCore
+main: me.wolves.raidingoutpost.RaidingOutpostPlugin
+description: RaidingOutpost working with MassiveCore
+version: 1.0
+author: wolves
+
+depend: [HolographicDisplays]
+
+commands:
+  routpost:
+           
